@@ -1,4 +1,4 @@
-Shakespearean Insult Generator for [Alfred](http://www.alfredapp.com/).
+Shakespearean Insult Generator for [Alfred](http://www.alfredapp.com/)
 =====
 
 Author: Jason A. Dour
